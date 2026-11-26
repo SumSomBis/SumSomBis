@@ -12,7 +12,7 @@
 <!-- ─── TYPING ANIMATION ─── -->
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com/demo/">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=700&height=45&lines=3rd+Year+B.Tech+CSE+%40+KIIT+University;Building+Agentic+AI+%26+Full+Stack+Systems;Competitive+Programmer+in+C%2B%2B+%26+Java;RAG+Pipelines+%7C+LLM+Orchestration+%7C+Cloud;CGPA+9.23+%7C+CCNA+Certified+%7C+SAP+BTP" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=700&height=45&lines=4th+Year+B.Tech+CSE+%40+KIIT+University;Building+Agentic+AI+%26+Full+Stack+Systems;Competitive+Programmer+in+C%2B%2B+%26+Java;RAG+Pipelines+%7C+LLM+Orchestration+%7C+Cloud;CGPA+9.23+%7C+CCNA+Certified+%7C+SAP+BTP" alt="Typing SVG"/>
   </a>
 </div>
 <br/>
