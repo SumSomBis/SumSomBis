@@ -37,7 +37,7 @@
 ## 🧑‍💻 About Me
 
 ```txt
-🎓  3rd Year B.Tech CSE  @  KIIT University, Bhubaneswar  |  CGPA: 9.23
+🎓  4th Year B.Tech CSE  @  KIIT University, Bhubaneswar  |  CGPA: 9.23
 💼  Ex – Full Stack Intern @ Seeree Tech  |  Ex – Research Intern @ FinPro Wealth
 🤖  Building Agentic AI pipelines, RAG architectures & production ML systems
 🌐  Full Stack: React • Node.js • TypeScript • CAP / SAP BTP • REST & GraphQL
